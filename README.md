@@ -56,19 +56,19 @@
 </details>
 <br />
 
-## 🔧Tech Stack
+## ⚒️Tech Stack
 <div align="center">
   <img width="800" src="https://raw.githubusercontent.com/MIB0831national/Twin_Earth/main/doc/%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D.jpg?token=ANYQW2SV3ZG62LH5K6SRBRLBFOMIK">
 </div>
 <br/>
 
-## Key-features
+## 🤖Key-features
 <br />
 
-## Recommender-Architecture
+## 🤔Recommender-Architecture
 <br />
 
-## Team
+## 👥Team
 |  이름  |   역할    |                                                                                        개발 내용                                                                                        |
 | :----: | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 도형섭 |  PM & AI  |                           프로젝트 문서 작성 및 발표<br />스토리보드 작성<br />인스타 데이터 크롤링                           |
@@ -79,6 +79,6 @@
 | 박나은 | AI & Back-end  |            DB 설계<br />웹 서비스 배포 <br />Turicreate를 활용한 추천 모델 개발                                                       |
 <br />
 
-## Date
+## 📅Date
 
 
