@@ -6,6 +6,7 @@
 <h3 align="center">AI 분석 기반 사용자 맞춤형 국립공원 탐방 서비스</h3>
 
 <p align="center">
+  📰
   <a href="#Introduction">Introduction</a> • 
   <a href="#Tech Stack">Tech Stack</a> •  
   <a href="#Key-features">Key Features</a> • 
@@ -15,7 +16,7 @@
 </p>
 </br>
 
-## Introduction
+## 💁🏻‍Introduction
 **'최소한의 선택을 통해 최적의 코스를 추천한다"**
 <br />
 2시간이 걸리는 등산 계획을 1분으로 줄여주는 등산 코스 추천 서비스
@@ -55,7 +56,7 @@
 </details>
 <br />
 
-## Tech Stack
+## 🔧Tech Stack
 <div align="center">
   <img width="800" src="https://raw.githubusercontent.com/MIB0831national/Twin_Earth/main/doc/%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D.jpg?token=ANYQW2SV3ZG62LH5K6SRBRLBFOMIK">
 </div>
