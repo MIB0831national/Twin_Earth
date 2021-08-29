@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="300" alt="Flowchart" src="https://raw.githubusercontent.com/MIB0831national/Twin_Earth/main/doc/%ED%8A%B8%EC%9C%88%EC%96%B4%EC%8A%A4%20%EB%A1%9C%EA%B3%A0.png?token=ANYQW2UDCCC4QQ2XQZWDYT3BFOMDC">
+  <img width="300" src="https://raw.githubusercontent.com/MIB0831national/Twin_Earth/main/doc/%ED%8A%B8%EC%9C%88%EC%96%B4%EC%8A%A4%20%EB%A1%9C%EA%B3%A0.png?token=ANYQW2UDCCC4QQ2XQZWDYT3BFOMDC">
 </h1>
 
 
@@ -57,7 +57,7 @@
 
 ## Tech Stack
 <div align="center">
-  <img width="800" alt="Flowchart" src="https://raw.githubusercontent.com/MIB0831national/Twin_Earth/main/doc/%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D.jpg?token=ANYQW2SV3ZG62LH5K6SRBRLBFOMIK">
+  <img width="800" src="https://raw.githubusercontent.com/MIB0831national/Twin_Earth/main/doc/%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D.jpg?token=ANYQW2SV3ZG62LH5K6SRBRLBFOMIK">
 </div>
 <br/>
 
