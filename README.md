@@ -9,8 +9,6 @@
   📰
   <a href="#Introduction">Introduction</a> • 
   <a href="#Tech Stack">Tech Stack</a> •  
-  <a href="#Key-features">Key Features</a> • 
-  <a href="#Recommender-Architecture">Recommender Architecture</a> • 
   <a href="#Team">Team</a> •  
   <a href="#Date">Date</a> •  
 </p>
@@ -62,11 +60,6 @@
 </div>
 <br/>
 
-## 🤖Key-features
-<br />
-
-## 🤔Recommender-Architecture
-<br />
 
 ## 👥Team
 |  이름  |   역할    |                                                                                        개발 내용                                                                                        |
